@@ -1,2 +1,0 @@
-test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
-nbomber_default_test_suite_name,nbomber_default_test_name,get rings,00:00:05,global information,1514,1514,0,302.8,3.94,29.76,4130.18,16.26,20.94,39.07,207.36,144.67,5.095,5.096,5.095,7.5
